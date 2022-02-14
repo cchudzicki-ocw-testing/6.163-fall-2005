@@ -8,7 +8,11 @@ image_metadata:
   caption: Striking the heated metal causes deformation.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Striking the heated metal causes deformation.
+learning_resource_types: []
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: strike2.jpg
+type: OCWImage
 uid: 5b12f3c5-f2ad-fff7-19af-db540099abf7
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: The anvil with cut-off hardy.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: The anvil with cut-off hardy.
+learning_resource_types: []
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: setup5.jpg
+type: OCWImage
 uid: b3e5fd57-079d-5342-38da-d5db682eec67
 ---

@@ -8,7 +8,11 @@ image_metadata:
   caption: 'Still shot from B/W high speed video, deformation sequence #2.'
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 'Still shot from B/W high speed video, deformation sequence #2.'
+learning_resource_types: []
+parent_title: High Speed Video Stills
+parent_type: CourseSection
 resourcetype: Image
 title: wedge2.jpg
+type: OCWImage
 uid: 7f27f63a-2eec-1baf-3b46-c8d458ef095e
 ---

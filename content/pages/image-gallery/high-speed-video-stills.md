@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: High Speed Video Stills
+type: CourseSection
 uid: f33409c4-8175-2714-b81d-3c2218afaf85
 ---
 

@@ -7,7 +7,12 @@ image_metadata:
   caption: Video of a pencil shot into a board.
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Videos
+parent_title: Videos
+parent_type: CourseSection
 resourcetype: Image
 title: clip0123_thumb.jpg
+type: OCWImage
 uid: c32dab25-d526-22b0-578d-d2e47c41e986
 ---

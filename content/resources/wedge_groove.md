@@ -7,7 +7,11 @@ image_metadata:
   caption: See the groove!
   credit: Image courtesy of Arlis Reynolds.
   image-alt: See the groove!
+learning_resource_types: []
+parent_title: High Speed Video Stills
+parent_type: CourseSection
 resourcetype: Image
 title: wedge_groove.jpg
+type: OCWImage
 uid: ef424de8-45d2-c19c-9533-47b81cb84e6b
 ---

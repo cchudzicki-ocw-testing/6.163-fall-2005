@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Strobe Photos
+type: CourseSection
 uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 ---
 

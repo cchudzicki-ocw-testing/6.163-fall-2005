@@ -9,7 +9,11 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds. All Photoshop work was performed by Amy
     Eastment.
   image-alt: Frozen rose 4 - just as bullet exits (Photoshop-enhanced).
+learning_resource_types: []
+parent_title: Strobe Photos
+parent_type: CourseSection
 resourcetype: Image
 title: rose4ps.jpg
+type: OCWImage
 uid: 557572c4-caa6-5300-03cf-206a6bd47c5a
 ---

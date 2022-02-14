@@ -7,7 +7,12 @@ image_metadata:
   caption: Camera lens in macro mode (full extension).
   credit: Photo courtesy of Jim Bales.
   image-alt: Camera lens in macro mode (full extension).
+learning_resource_types:
+- Tools
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Image
 title: lens2_macro.jpg
+type: OCWImage
 uid: 218f0a46-5049-8497-bd39-939b41e8ca0c
 ---

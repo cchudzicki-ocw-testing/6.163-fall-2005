@@ -8,7 +8,11 @@ image_metadata:
   caption: Nima checks the computer settings for the HSV camera; Amy heats the metal.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Nima checks the computer settings for the HSV camera; Amy heats
+learning_resource_types: []
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: setup3.jpg
+type: OCWImage
 uid: 762fcc87-6d53-e6dd-2efa-5785b783b562
 ---
