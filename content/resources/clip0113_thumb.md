@@ -13,6 +13,5 @@ parent_title: Videos
 parent_type: CourseSection
 resourcetype: Image
 title: clip0113_thumb.jpg
-type: OCWImage
 uid: 7a726d6a-aa7f-1853-216c-7ddb71291d1e
 ---

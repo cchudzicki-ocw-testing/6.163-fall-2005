@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Images Previous Terms
-type: CourseSection
 uid: a3cfdb5a-7890-2270-10b6-6606ba1bb0aa
 ---
 

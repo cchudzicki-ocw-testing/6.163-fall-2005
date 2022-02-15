@@ -12,6 +12,5 @@ parent_title: High Speed Video Stills
 parent_type: CourseSection
 resourcetype: Image
 title: zburning-metal3.jpg
-type: OCWImage
 uid: f7239a33-d22e-a1f2-564e-a37a13d3396b
 ---

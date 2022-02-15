@@ -13,6 +13,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Image
 title: lens2_macro.jpg
-type: OCWImage
 uid: 218f0a46-5049-8497-bd39-939b41e8ca0c
 ---

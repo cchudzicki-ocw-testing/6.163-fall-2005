@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: practcl_exercise.pdf
-type: OCWFile
 uid: 061a264f-e058-1ded-dfb5-9088c911491f
 ---

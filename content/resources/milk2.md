@@ -13,6 +13,5 @@ parent_title: Milkdrops
 parent_type: CourseSection
 resourcetype: Image
 title: milk2.jpg
-type: OCWImage
 uid: 89e17678-9d88-d3c9-dc70-1f4cd03fd667
 ---

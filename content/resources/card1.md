@@ -12,6 +12,5 @@ parent_title: Strobe Photos
 parent_type: CourseSection
 resourcetype: Image
 title: card1.jpg
-type: OCWImage
 uid: 04ca3e9f-fd53-9951-e222-b78cf7b872e0
 ---

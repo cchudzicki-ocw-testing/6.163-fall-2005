@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: project_planning.pdf
-type: OCWFile
 uid: 71e192fb-c367-e9ff-42e9-a238b3a9ef7f
 ---

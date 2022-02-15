@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: quiz2ans.pdf
-type: OCWFile
 uid: d3373506-6ffd-5946-ecb8-58ec2346a6f4
 ---

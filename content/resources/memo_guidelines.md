@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: memo_guidelines.pdf
-type: OCWFile
 uid: 79753dc7-b607-a769-d3b0-3a0a98359e50
 ---

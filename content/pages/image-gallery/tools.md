@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Tools
-type: CourseSection
 uid: 51e67a31-2538-a373-46f7-721da1229636
 ---
 

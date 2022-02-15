@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab_notes.pdf
-type: OCWFile
 uid: 2b69a4d9-3728-9583-7ef9-349eb2563bc1
 ---

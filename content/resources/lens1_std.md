@@ -13,6 +13,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Image
 title: lens1_std.jpg
-type: OCWImage
 uid: e54b3f2b-8b20-90a4-232e-9065ec340219
 ---

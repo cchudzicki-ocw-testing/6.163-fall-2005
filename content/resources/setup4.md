@@ -12,6 +12,5 @@ parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image
 title: setup4.jpg
-type: OCWImage
 uid: bd2cebe7-3129-6499-8466-0c1541982737
 ---

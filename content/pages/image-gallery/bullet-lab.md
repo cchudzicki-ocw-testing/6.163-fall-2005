@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Bullet Lab
-type: CourseSection
 uid: ebe3c6fb-a43f-5a3d-bf99-a630e01cb616
 ---
 

@@ -14,6 +14,5 @@ parent_title: Strobe Photos
 parent_type: CourseSection
 resourcetype: Image
 title: rose5ps.jpg
-type: OCWImage
 uid: 181c63ae-c17c-383e-38ed-8bc41af612ee
 ---

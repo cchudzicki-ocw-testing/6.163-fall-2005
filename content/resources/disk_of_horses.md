@@ -14,6 +14,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Image
 title: disk_of_horses.jpg
-type: OCWImage
 uid: f8630d82-4922-1e50-4f97-74af7685f1ae
 ---

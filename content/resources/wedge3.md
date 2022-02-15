@@ -13,6 +13,5 @@ parent_title: High Speed Video Stills
 parent_type: CourseSection
 resourcetype: Image
 title: wedge3.jpg
-type: OCWImage
 uid: 485ee0a3-dfd6-a40e-9188-8f1c566bc567
 ---

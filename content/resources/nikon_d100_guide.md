@@ -10,6 +10,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: nikon_D100_guide.pdf
-type: OCWFile
 uid: d8995b90-73db-1872-1871-f28d193febd2
 ---

@@ -12,6 +12,5 @@ parent_title: Bullet Lab
 parent_type: CourseSection
 resourcetype: Image
 title: asetup3.jpg
-type: OCWImage
 uid: 8ea748f6-db0e-e1cd-a4e5-aa08efcac0e4
 ---

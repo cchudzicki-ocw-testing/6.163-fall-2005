@@ -13,6 +13,5 @@ parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image
 title: strike2.jpg
-type: OCWImage
 uid: 5b12f3c5-f2ad-fff7-19af-db540099abf7
 ---

@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Milkdrops
-type: CourseSection
 uid: 31ac6eb3-b942-36b7-020c-3730da6b81bb
 ---
 
