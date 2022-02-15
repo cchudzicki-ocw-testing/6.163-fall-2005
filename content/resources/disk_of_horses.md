@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Disk used during stroboscopy lab to determine rotation speed.
 learning_resource_types:
 - Tools
+ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
 resourcetype: Image

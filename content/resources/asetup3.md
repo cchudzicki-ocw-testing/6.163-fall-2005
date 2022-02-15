@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Rewinding the film.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Bullet Lab
 parent_type: CourseSection
 resourcetype: Image

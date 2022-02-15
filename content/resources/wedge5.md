@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 'Still shot from B/W high speed video, deformation sequence #5.'
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: High Speed Video Stills
 parent_type: CourseSection
 resourcetype: Image

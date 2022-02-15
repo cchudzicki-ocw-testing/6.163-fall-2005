@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Camera lens at standard extension.
 learning_resource_types:
 - Tools
+ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
 resourcetype: Image

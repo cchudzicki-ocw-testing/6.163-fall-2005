@@ -10,6 +10,7 @@ image_metadata:
     Eastment.
   image-alt: Frozen rose 4 - just as bullet exits (Photoshop-enhanced).
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
 resourcetype: Image

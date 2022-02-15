@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 'Deformation sequence, on the anvil - #3.'
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: High Speed Video Stills
 parent_type: CourseSection
 resourcetype: Image

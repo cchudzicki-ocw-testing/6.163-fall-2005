@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17

@@ -5,6 +5,7 @@ description: This resource contains information on film development procedures, 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-163-strobe-project-laboratory-fall-2005/83a42ca008ef9b727b1396986a2d6e2f_darkroom_rules.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

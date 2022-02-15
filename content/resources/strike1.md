@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Amy strikes the heated metal over the cut-off hardy.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image

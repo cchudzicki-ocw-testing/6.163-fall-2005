@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 ---

@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Test shot of frozen rose.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
 resourcetype: Image

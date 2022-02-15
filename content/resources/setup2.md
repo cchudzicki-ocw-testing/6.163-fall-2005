@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Nima and Heather setting up the HSV camera.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
 resourcetype: Image
