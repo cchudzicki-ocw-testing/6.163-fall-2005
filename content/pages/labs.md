@@ -22,7 +22,7 @@ You must maintain a laboratory notebook. Obtain the 'duplicating' type that has 
 
 To view an example of what is included in a lab notebook, see the lab notes below.
 
-Lab Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lab_notes)) (Courtesy of Heather Coffin. Used with permission.)
+Lab Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 2b69a4d9-3728-9583-7ef9-349eb2563bc1 "PDF" >}}) (Courtesy of Heather Coffin. Used with permission.)
 
 ### Preparation
 
@@ -51,7 +51,7 @@ Laboratory Assignments
 
 The lab assignments for the course are listed below.
 
-Practical Exercise ([PDF]({{< baseurl >}}/resources/practcl_exercise))
+Practical Exercise ({{< resource_link 061a264f-e058-1ded-dfb5-9088c911491f "PDF" >}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -71,7 +71,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Synch and Delay ([PDF]({{< baseurl >}}/resources/lab1_assign))
+Synch and Delay ({{< resource_link 5d02c90e-707b-3675-2a69-79207e32b468 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +80,7 @@ Synch and Delay ([PDF]({{< baseurl >}}/resources/lab1_assign))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Stroboscopy ([PDF]({{< baseurl >}}/resources/lab2_assign))
+Stroboscopy ({{< resource_link 8603d0c6-2d96-32b0-076c-78ec07b1462c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ Stroboscopy ([PDF]({{< baseurl >}}/resources/lab2_assign))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Multiflash Photography ([PDF]({{< baseurl >}}/resources/lab3_assign))
+Multiflash Photography ({{< resource_link 10a33dc8-66df-1be9-c90d-f007801fb30b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ Multiflash Photography ([PDF]({{< baseurl >}}/resources/lab3_assign))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-High Speed Video ([PDF]({{< baseurl >}}/resources/lab4_assign))
+High Speed Video ({{< resource_link e49e4866-a03e-86d4-ad33-d82ec7bc6613 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +107,7 @@ High Speed Video ([PDF]({{< baseurl >}}/resources/lab4_assign))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Bullet Photography ([PDF]({{< baseurl >}}/resources/lab5_assign))
+Bullet Photography ({{< resource_link fc191700-1021-9f91-1ac6-6ff1a716a739 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
