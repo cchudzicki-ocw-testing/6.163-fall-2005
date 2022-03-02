@@ -29,4 +29,4 @@ All photos and videos used with permission.
 
   
   
-{{< resource_link a3cfdb5a-7890-2270-10b6-6606ba1bb0aa "Videos" "#Videos" >}} may be found at the bottom of the image gallery.
+{{% resource_link a3cfdb5a-7890-2270-10b6-6606ba1bb0aa "Videos" "#Videos" %}} may be found at the bottom of the image gallery.
