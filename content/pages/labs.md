@@ -22,7 +22,7 @@ You must maintain a laboratory notebook. Obtain the 'duplicating' type that has 
 
 To view an example of what is included in a lab notebook, see the lab notes below.
 
-Lab Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2b69a4d9-3728-9583-7ef9-349eb2563bc1 "PDF" %}}) (Courtesy of Heather Coffin. Used with permission.)
+Lab Notes ({{% resource_link 2b69a4d9-3728-9583-7ef9-349eb2563bc1 "PDF" %}}) (Courtesy of Heather Coffin. Used with permission.)
 
 ### Preparation
 
