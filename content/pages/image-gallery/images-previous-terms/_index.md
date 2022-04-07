@@ -30,12 +30,9 @@ uid: a3cfdb5a-7890-2270-10b6-6606ba1bb0aa
 {{</ image-gallery >}}
 ### {{< anchor "Videos" >}}{{< /anchor >}}Videos
 
-*   [{{< resource "6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7" >}}Video of a bullet passing through a cucumber.  
-    (1.6MB)](http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4)
-*   [{{< resource "ef008f31-a706-0d9e-9312-8d030272e400" >}}Video of a bullet passing through a banana.  
-    (2.2MB)](http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4)
+*   {{< resource uuid="6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7" href="http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4" >}}[Video of a bullet passing through a cucumber.  ](http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4)
+*   {{< resource uuid="ef008f31-a706-0d9e-9312-8d030272e400" href="http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4" >}}[Video of a bullet passing through a banana.  ](http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4)
 *   [{{< resource "c32dab25-d526-22b0-578d-d2e47c41e986" >}}Video of a pencil shot into a board.  
       
     ](http://www.archive.org/download/MIT6.163F05/betterclip0123__512kb.mp4)
-*   [{{< resource "7a726d6a-aa7f-1853-216c-7ddb71291d1e" >}}Video of a pencil shot into a board.  
-    (1.2MB)](http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4)
+*   {{< resource uuid="7a726d6a-aa7f-1853-216c-7ddb71291d1e" href="http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4" >}}[Video of a pencil shot into a board.  ](http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4)
