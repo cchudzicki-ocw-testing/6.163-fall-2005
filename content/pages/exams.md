@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The exams section gives information on the exams and solutions of the
+  course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

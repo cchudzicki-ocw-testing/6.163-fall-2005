@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The labs section gives information on laboratory procedures and laboratory
+  assignments.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

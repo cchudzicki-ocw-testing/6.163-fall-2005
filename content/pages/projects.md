@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The projects section gives information on mark 1 and final project of
+  the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

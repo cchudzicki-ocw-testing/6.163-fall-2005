@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The study materials section gives information on the handouts which were
+  provided to students in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
