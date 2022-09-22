@@ -5,6 +5,7 @@ description: This resource contains information on stating objective, defining d
 file: /courses/6-163-strobe-project-laboratory-fall-2005/71e192fbc367e9ff42e9a238b3a9ef7f_project_planning.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
